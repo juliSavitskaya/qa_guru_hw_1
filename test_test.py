@@ -1,2 +1,2 @@
-def test_sum1():
+def test_sum2():
     assert 1 + 1 == 2
